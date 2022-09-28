@@ -1,0 +1,15 @@
+C:\Users\Николай\Desktop\Lesson\C#\Lesson_2\2_5\bin\Debug\net6.0\2_5.exe
+C:\Users\Николай\Desktop\Lesson\C#\Lesson_2\2_5\bin\Debug\net6.0\2_5.deps.json
+C:\Users\Николай\Desktop\Lesson\C#\Lesson_2\2_5\bin\Debug\net6.0\2_5.runtimeconfig.json
+C:\Users\Николай\Desktop\Lesson\C#\Lesson_2\2_5\bin\Debug\net6.0\2_5.dll
+C:\Users\Николай\Desktop\Lesson\C#\Lesson_2\2_5\bin\Debug\net6.0\2_5.pdb
+C:\Users\Николай\Desktop\Lesson\C#\Lesson_2\2_5\obj\Debug\net6.0\2_5.csproj.AssemblyReference.cache
+C:\Users\Николай\Desktop\Lesson\C#\Lesson_2\2_5\obj\Debug\net6.0\2_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Николай\Desktop\Lesson\C#\Lesson_2\2_5\obj\Debug\net6.0\2_5.AssemblyInfoInputs.cache
+C:\Users\Николай\Desktop\Lesson\C#\Lesson_2\2_5\obj\Debug\net6.0\2_5.AssemblyInfo.cs
+C:\Users\Николай\Desktop\Lesson\C#\Lesson_2\2_5\obj\Debug\net6.0\2_5.csproj.CoreCompileInputs.cache
+C:\Users\Николай\Desktop\Lesson\C#\Lesson_2\2_5\obj\Debug\net6.0\2_5.dll
+C:\Users\Николай\Desktop\Lesson\C#\Lesson_2\2_5\obj\Debug\net6.0\refint\2_5.dll
+C:\Users\Николай\Desktop\Lesson\C#\Lesson_2\2_5\obj\Debug\net6.0\2_5.pdb
+C:\Users\Николай\Desktop\Lesson\C#\Lesson_2\2_5\obj\Debug\net6.0\2_5.genruntimeconfig.cache
+C:\Users\Николай\Desktop\Lesson\C#\Lesson_2\2_5\obj\Debug\net6.0\ref\2_5.dll
