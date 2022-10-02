@@ -13,6 +13,7 @@ void FillArray(int[] number)
         index++;
     }  
 }
+
 void Random01Array(int[] num)
 {
     int count = num.Length;
